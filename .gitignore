@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Build outputs
+out/
+dist/
+*.vsix
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.coverage.*
+
+# Rust
+target/
+Cargo.lock
+
+# Output directories
+output/
+result_statics/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+## others
+KotSuite：面向移动应用的Kotlin语言单元测试生成工具
+MergeBot: 基于智能程序分析的C++代码合并冲突消解工具
+
+## md
+ACKNOWLEDGMENTS.md
+CHANGELOG.md
+COMPILATION_ENHANCEMENTS.md
+TODO.md
+TEMPERATURE_CONFIG.md
+DESIGN.md
