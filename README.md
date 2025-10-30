@@ -293,8 +293,3 @@ mypy src/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
-
-- Documentation: https://docs.cstarx.dev
-- Issues: https://github.com/cstarx/cstarx-v2/issues
-- Discussions: https://github.com/cstarx/cstarx-v2/discussions
-- Email: support@cstarx.dev
